@@ -3,10 +3,9 @@
 
 | [![edoardo2721's GitHub stats](https://github-readme-stats.vercel.app/api?username=edoardo2721&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/edoardo2721?tab=repositories) | [![edoardo2721's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edoardo2721&layout=compact&hide_border=true&theme=jolly)](https://github.com/edoardo2721?tab=repositories) |
 |:-:|:-:|
-<img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
 
 <p align="center">
-  <img src="http://badge42.herokuapp.com/api/stats/ebrovard?privacyEmail=true" width="800" />
+  <img src="http://badge42.herokuapp.com/api/stats/ebrovard?privacyEmail=true" width="700" />
 </p>
 
 
