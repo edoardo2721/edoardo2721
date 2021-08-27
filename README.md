@@ -1,4 +1,4 @@
-<h3 align="center">Intra profile : EBROVARD <img style="margin:auto;" src="logo.png" width="30"> </h3>
+<h3 align="center">EBROVARD  <img style="margin:auto;" src="logo.png" width="30"> </h3>
 
   <p align="center">
     <img src="http://badge42.herokuapp.com/api/stats/ebrovard?privacyEmail=true" width="700" />
