@@ -1,5 +1,5 @@
-<h3 align="center">EBROVARD ![image](https://user-images.githubusercontent.com/74912387/131159256-ffe86f72-a4f0-407a-92be-6337c4201718.png)
-</h3>
+<h3 align="center">EBROVARD <img style="margin:auto;" src="logo.png" width="50"> </h3>
+
   <p align="center">
     <img src="http://badge42.herokuapp.com/api/stats/ebrovard?privacyEmail=true" width="700" />
   </p>
