@@ -5,11 +5,11 @@
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=edoardo2721&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=darcula""https://github.com/edoardo2721?tab=repositories" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edoardo2721&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=slateorange""https://github.com/edoardo2721?tab=repositories" width="500" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardo2721&hide_border=true&theme=slateorange""https://github.com/edoardo2721?tab=repositories" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardo2721&hide_border=true&theme=darcula""https://github.com/edoardo2721?tab=repositories" width="500" />
   </p>
 
 <!--
