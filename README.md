@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
 
 <p align="center">
-  <img src="http://badge42.herokuapp.com/api/stats/ebrovard?darkmode=false" width="800" />
+  <img src="http://badge42.herokuapp.com/api/stats/ebrovard?darkmode=false?privacyEmail=true" width="800" />
 </p>
 
 
