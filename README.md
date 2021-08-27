@@ -5,7 +5,9 @@
 |:-:|:-:|
 <img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
 
-![ebrovard 42 stats](https://badge42.herokuapp.com/api/stats/ebrovard?privacyEmail=true)
+<p align="center">
+  <img src="http://badge42.herokuapp.com/api/stats/ebrovard?darkmode=false" width="800" />
+</p>
 
 
 <!--
